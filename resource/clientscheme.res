@@ -2804,62 +2804,91 @@ Scheme
 				"additive"	"0"
 			}
 		}
-		NeouRegular13
+		//ClementeLight
+		
+		ClementePDae-Light13
 		{
 			"1"
 			{
-				"name"		"Neou-Thin"
+				"name"		"ClementePDae-Light"
 				"tall"		"13"
 				"antialias" "1"
 			}
         }	
-		NeouRegular16
+		
+		ClementePDae-Light16
 		{
 			"1"
 			{
-				"name"		"Neou-Thin"
+				"name"		"ClementePDae-Light"
 				"tall"		"16"
 				"antialias" "1"
 			}
         }	
-		NeouRegular20
+		
+		ClementePDae-Light20
 		{
 			"1"
 			{
-				"name"		"Neou-Thin"
+				"name"		"ClementePDae-Light"
 				"tall"		"20"
 				"antialias" "1"
 			}
         }	
-		NeouRegular32
+		
+		ClementePDae-Light32
 		{
 			"1"
 			{
-				"name"		"Neou-Thin"
+				"name"		"ClementePDae-Light"
 				"tall"		"32"
 				"antialias" "1"
 			}
         }	
-		NeouRegular10
+		
+		//Clemente Bold fonts HP/AMMO
+		
+		ClementePDai-Regular16
 		{
 			"1"
 			{
-				"name"		"Neou-Thin"
-				"tall"		"10"
-				"antialias" "1"
-			}
-        }	
-		NeouRegular18
-		{
-			"1"
-			{
-				"name"		"Neou-Thin"
-				"tall"		"18"
+				"name"		"ClementePDai-Regular"
+				"tall"		"16"
 				"antialias" "1"
 			}
         }	
 		
-	} 	
+		ClementePDai-Regular22
+		{
+			"1"
+			{
+				"name"		"ClementePDai-Regular"
+				"tall"		"22"
+				"antialias" "1"
+			}
+        }	
+		
+		ClementePDai-Regular32
+		{
+			"1"
+			{
+				"name"		"ClementePDai-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+        }	
+		
+		ClementePDai-Regular42
+		{
+			"1"
+			{
+				"name"		"ClementePDai-Regular"
+				"tall"		"42"
+				"antialias" "1"
+			}
+        }	
+
+   	} 	
 
 	
 	// Fonts Used In My Custom Hud (can be changed)
@@ -5203,13 +5232,24 @@ Scheme
 		}	
 		"7"
 		{
-			"font" "recource/fonts/Neou-Bold"
-			"name" "Neou-Bold"
+			"font" "recource/fonts/ClementePDae-Light"
+			"name" "ClementePDae-Light"
 		}		
 		"8"
 		{
-			"font" "recource/fonts/Neou-Thin"
-			"name" "Neou-Thin"
+			"font" "recource/fonts/ClementePDag-Book"
+			"name" "ClementePDag-Book"
 		}	
+		"9"
+		{
+			"font" "recource/fonts/ClementePDai-Regular"
+			"name" "ClementePDai-Regular"
+		}	
+        "10"
+		{
+			"font" "recource/fonts/ClementePDam-Bold"
+			"name" "ClementePDam-Bold"
+		}	
+		
 	}
 }
