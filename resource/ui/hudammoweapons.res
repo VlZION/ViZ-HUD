@@ -104,9 +104,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"ClementePDai-Regular32"
+		"font"			"ClementePDai-Regular42"
 		"fgcolor"		"255 255 255 255"
-		"xpos"			"-28"
+		"xpos"			"-8"
 		"ypos"			"-5"
 		"zpos"			"5"
 		"wide"			"100"
@@ -123,7 +123,7 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"ClementePDai-Regular32"
 		"fgcolor"		"Black"
-		"xpos"			"-19"
+		"xpos"			"-1"
 		"ypos"			"3"
 		"zpos"			"5"
 		"wide"			"84"
@@ -134,21 +134,18 @@
 		"labelText"		"%Ammo%"
 		
 	}		
-    "ScoreboardBackground"
+    "AmmoBG"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"ScoreboardBackground"
-		"xpos"			"c-230"
-		"xpos_minmode"  "9999"
-		"ypos"			"121"
-		"ypos_minmode"  "9999"
+		"fieldName"		"AmmoBG"
+		"xpos"			"0"
+		"ypos"			"-20"
 		"zpos"			"-1"
 		"wide"			"540"
 		"tall"			"244"
-		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 100"
+		"fillcolor"		"0 0 0 150"
 		
 		if_mvm
 		{
